@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24084619211237811";
+const GROUP_THREAD_ID = "24084619211237811,24291989303734261";
 const LOCKED_GROUP_NAME = "🤪 AJAY BHOSDIWALA KALAP GAYA TOO MERI ID KE MSG BLOCKER ID ADD KARKE BLOCK KAR DIYA SUWAR SALA 🤣😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)

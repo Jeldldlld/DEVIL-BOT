@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "1701941230501649";
-const LOCKED_GROUP_NAME = "ARYAN KII MA BHOSDA FATEGA LEFT HUA TO RANDI KA BACCHA HOGA TU 🤣😂";
+const LOCKED_GROUP_NAME = "ARYAN KII MA (") ❤️ KI FATTI 🤣😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
